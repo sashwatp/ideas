@@ -1,1 +1,2 @@
-# ideas
+# Ideas
+1. 
